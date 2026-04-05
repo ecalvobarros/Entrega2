@@ -1,5 +1,7 @@
 # Proyecto - Ejercicio 10
 
+## Nombre: Estanislao Calvo Barros
+
 ## Descripción
 
 Este proyecto contiene la resolución del ejercicio 10, incluyendo el cálculo de estadísticas y generación de tablas de posiciones.
